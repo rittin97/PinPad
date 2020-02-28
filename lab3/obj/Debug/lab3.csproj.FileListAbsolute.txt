@@ -1,0 +1,10 @@
+C:\Users\ritti\Desktop\lab 3\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\ritti\Desktop\lab 3\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\ritti\Desktop\lab 3\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\ritti\Desktop\lab 3\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\ritti\Desktop\lab 3\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\ritti\Desktop\lab 3\lab3\lab3\obj\Debug\lab3.UserControl1.resources
+C:\Users\ritti\Desktop\lab 3\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.Cache
+C:\Users\ritti\Desktop\lab 3\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\ritti\Desktop\lab 3\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\ritti\Desktop\lab 3\lab3\lab3\obj\Debug\lab3.Form1.resources
